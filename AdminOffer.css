@@ -1,0 +1,40 @@
+.align-right {
+    display: flex;
+    justify-content: flex-end;
+}
+.custom-button {
+    background-color: #000000; 
+    border-color: #09090a;     /* Replace with your desired border color */
+    color: white;              /* Replace with your desired text color */
+}
+
+.align-right {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.custom-button {
+  background-color: #000000; 
+  border-color: #09090a;     /* Replace with your desired border color */
+  color: white;              /* Replace with your desired text color */
+}
+
+.custom-modal {
+  position: fixed;
+  top: 4%;
+  left: 30%;
+  transform: translate(-50%, -50%);
+  max-width: 5%;
+  max-height: 23%;
+}
+
+.modal-content {
+  max-width: none;
+}
+
+.notification-modal-body {
+    max-height: 400px;
+    overflow-y: auto;
+  }
+  
+  
